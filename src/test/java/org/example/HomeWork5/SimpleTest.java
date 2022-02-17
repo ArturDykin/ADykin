@@ -12,7 +12,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.concurrent.TimeUnit;
 
-public class SimpleTest {
+public class SimpleTest{
 
     static WebDriver driver;
 
